@@ -1,0 +1,48 @@
+{
+    "name": "AirSwap",
+    "logoURI": "https://raw.githubusercontent.com/VianPan/air-swap/master/assets/air.svg",
+    "keywords": [
+        "air",
+        "pizza"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+    {
+        "chainId": 1337,
+        "address": "0xA54903F0823a1F113268Ff6dA208D3B423Bf33E7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+        "chainId": 1337,
+        "address": "0xf319b24c07b1ca8eEde88eD1D868bddddF31ae16",
+        "name": "AIR Token",
+        "symbol": "AIR",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+        "chainId": 1337,
+        "address": "0x6136c31E64199913F59D208F60d30e5c21b78CDD",
+        "name": "USD Coin USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    }],
+    "pools": [
+    {
+        "address": "0x40B9302CC3630547e9EF0465A67174EEd3858113",
+        "lp": "0x52A75d1d8C7307973Bf0d03fD5CFA5BB5807a615",
+        "lp_symbol": "aUSDI",
+        "token0": "0xf319b24c07b1ca8eEde88eD1D868bddddF31ae16",
+        "token1": "0xA54903F0823a1F113268Ff6dA208D3B423Bf33E7"
+    }],
+    "version":
+    {
+        "major": 2,
+        "minor": 0,
+        "patch": 0
+    }
+}
