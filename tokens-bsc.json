@@ -9,7 +9,7 @@
     "tokens": [
     {
         "chainId": 1337,
-        "address": "0x788263a40aE99EE2F977396F14C0Ff5f2D3849Bc",
+        "address": "0x3312486289f1CDa8ffbB255dab7cF2D73809Cf75",
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
@@ -17,7 +17,7 @@
     },
     {
         "chainId": 1337,
-        "address": "0xa4C00f8676249F31E852897ae568872eD46A6cEB",
+        "address": "0xF08C29E37c400495820516e33987ec0BB43f850e",
         "name": "AIR Token",
         "symbol": "AIR",
         "decimals": 6,
@@ -25,11 +25,11 @@
     }],
     "pools": [
     {
-        "address": "0x4A60a0eEBBe2215e3a545aECbfEaeA7B95eB370f",
-        "lp": "0xD77AF413b19310cd6d9508FcA12896268EB8810E",
+        "address": "0xc04B05B3aB918063C2966887157AF57512b88c54",
+        "lp": "0xC11554EA0a65B7cCa8f70C343FA9b3aef3B542B6",
         "lp_symbol": "aUSDI",
-        "token0": "0xa4C00f8676249F31E852897ae568872eD46A6cEB",
-        "token1": "0x788263a40aE99EE2F977396F14C0Ff5f2D3849Bc"
+        "token0": "0xF08C29E37c400495820516e33987ec0BB43f850e",
+        "token1": "0x3312486289f1CDa8ffbB255dab7cF2D73809Cf75"
     }],
     "version":
     {
