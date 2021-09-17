@@ -33,15 +33,15 @@
     }],
     "pools": [
     {
-        "address": "0xc04B05B3aB918063C2966887157AF57512b88c54",
-        "lp": "0xC11554EA0a65B7cCa8f70C343FA9b3aef3B542B6",
-        "lp_symbol": "aUSDI",
+        "address": "0xbCa100d2638eeC8cd9B45CCaB16F558009b47a50",
+        "lp": "0x5df71a19A643f35E5cB38085FD4589926077Fd1b",
+        "lp_symbol": "aUSDII",
         "token0": "0xF08C29E37c400495820516e33987ec0BB43f850e",
         "token1": "0x3312486289f1CDa8ffbB255dab7cF2D73809Cf75"
     },
     {
-        "address": "0x773A63A0d5a57B743001B623F79898d8472424D0",
-        "lp": "0x1E858cCe9EfFFbDf9D3f00546A04417DF83A5e4a",
+        "address": "0x36D47af64E5743d14cFe79B9c973c760D841C17d",
+        "lp": "0x113142Cd003E4D2FDF76c9541C7c73424899CdBB",
         "lp_symbol": "aUSDII",
         "token0": "0xF08C29E37c400495820516e33987ec0BB43f850e",
         "token1": "0x12BF2C81b914Ac030303631c61Cf11bF88fdE671"
