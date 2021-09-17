@@ -22,6 +22,14 @@
         "symbol": "AIR",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+        "chainId": 1337,
+        "address": "0x12BF2C81b914Ac030303631c61Cf11bF88fdE671",
+        "name": "USD Coin USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }],
     "pools": [
     {
@@ -30,6 +38,13 @@
         "lp_symbol": "aUSDI",
         "token0": "0xF08C29E37c400495820516e33987ec0BB43f850e",
         "token1": "0x3312486289f1CDa8ffbB255dab7cF2D73809Cf75"
+    },
+    {
+        "address": "0x773A63A0d5a57B743001B623F79898d8472424D0",
+        "lp": "0x1E858cCe9EfFFbDf9D3f00546A04417DF83A5e4a",
+        "lp_symbol": "aUSDII",
+        "token0": "0xF08C29E37c400495820516e33987ec0BB43f850e",
+        "token1": "0x12BF2C81b914Ac030303631c61Cf11bF88fdE671"
     }],
     "version":
     {
