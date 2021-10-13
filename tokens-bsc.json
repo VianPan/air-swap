@@ -30,6 +30,22 @@
         "symbol": "USDC",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+        "chainId": 1337,
+        "address": "0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684",
+        "name": "BSC USDT",
+        "symbol": "USDT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+        "chainId": 1337,
+        "address": "0x8a9424745056eb399fd19a0ec26a14316684e274",
+        "name": "Dai Coin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }],
     "pools": [
     {
@@ -45,6 +61,12 @@
         "lp_symbol": "aUSDII",
         "token0": "0xF08C29E37c400495820516e33987ec0BB43f850e",
         "token1": "0x12BF2C81b914Ac030303631c61Cf11bF88fdE671"
+    },{
+        "address": "0x9ea82E85ce03cddd6353d301120DFeA2690EC275",
+        "lp": "0x9ea82E85ce03cddd6353d301120DFeA2690EC275",
+        "lp_symbol": "aUSD",
+        "token0": "0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684",
+        "token1": "0x8a9424745056eb399fd19a0ec26a14316684e274"
     }],
     "version":
     {
