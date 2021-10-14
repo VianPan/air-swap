@@ -25,7 +25,7 @@
     }],
     "pools": [
     {
-        "address": "0xD4f49c2262B76b4A3ab682C178cB0CBbc3FD004d",
+        "address": "0x20e6cba7933c90b9DA5FCA199845e51D18D4e941",
         "lp_symbol": "aUSDII",
         "token0": "0xa7e14950732bF996F3075aD685324e33f3810F91",
         "token1": "0x0fC92f35e151Cf1ea2f14aE2D544A6B6b0a8CE78"
