@@ -26,7 +26,7 @@
     "pools": [
     {
         "address": "0x7F25744e5C2196421BFdce72B28B95ad9a45E13d",
-        "lp_symbol": "aUSDII",
+        "lp_symbol": "aUSD",
         "token0": "0xa7e14950732bF996F3075aD685324e33f3810F91",
         "token1": "0x0fC92f35e151Cf1ea2f14aE2D544A6B6b0a8CE78"
     }],
