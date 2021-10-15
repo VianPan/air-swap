@@ -1,6 +1,6 @@
 {
     "name": "AirSwap",
-    "logoURI": "https://raw.githubusercontent.com/VianPan/air-swap/master/assets/air.svg",
+    "logoURI": "https://raw.githubusercontent.com/VianPan/air-swap/master/assets/air.png",
     "keywords": [
         "air",
         "pizza"
@@ -13,15 +13,15 @@
         "name": "AIR Token",
         "symbol": "AIR",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+        "logoURI": "https://raw.githubusercontent.com/VianPan/air-swap/master/assets/air.png"
     },
     {
         "chainId": 1337,
         "address": "0xa7e14950732bF996F3075aD685324e33f3810F91",
-        "name": "USD Coin USDC",
-        "symbol": "USDT",
+        "name": "Pizza USDE",
+        "symbol": "USDE",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+        "logoURI": "https://raw.githubusercontent.com/VianPan/air-swap/master/assets/usde.png"
     }],
     "pools": [
     {
